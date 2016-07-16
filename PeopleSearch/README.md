@@ -9,12 +9,16 @@ version 0.15.1.
 se
 st
 m
+y
 
 NOTE: I have created a Flickr search using angular recently to search public photos in Flickr.  Please find below the link.
 https://codepen.io/prasantha/pen/MeWbvV
 
 
 ## Build & development
+
+npm install
+bower install
 
 Run `grunt` for building and `grunt serve` for preview.
 
