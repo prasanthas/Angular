@@ -1,0 +1,31 @@
+ [
+    {
+      "name": "John",
+      "image": "john.png"
+    },
+    {
+      "name": "Sean",
+      "image": "sean.png"
+    },
+    {
+      "name": "Yaw",
+      "image": "yaw.png"
+    },
+    {
+      "name": "Yeoman",
+      "image": "Yeoman.png"
+    },
+    {
+      "name": "Paul",
+      "image": "paul.png"
+    },
+
+    {
+      "name": "Stacey",
+      "image": "stacey.png"
+    },
+    {
+      "name": "Mat",
+      "image": "mat.png"
+    }
+  ]
